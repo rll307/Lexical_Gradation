@@ -15,6 +15,8 @@ Each script brings a different research step:
 1. Correlation
 4. Plotting
 
+Unfortunately, we cannot make raw data available, but a table with our final results is here in CSV format. 
+
 Please, drop us a line if you have any doubt:
 
 [Rodrigo Esteves de Lima Lopes](mailto:rll307@gmail.com)
