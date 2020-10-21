@@ -4,7 +4,7 @@
 
 This repository brings the scripts used for lexical analysis of Brazilian Portuguese YouTube comments we wrote for our paper:
 
-> Lima-Lopes, R. E. de and Arruda, C. P. S. (2020) Strategies for identification in YouTube comments. (under review)
+> Lima-Lopes, R. E. de and Arruda, C. P. S. (2020) Strategies for Gradation in YouTube comments. (under review)
 
 Soon as we have it published, a link for the paper will be posted here.
 
